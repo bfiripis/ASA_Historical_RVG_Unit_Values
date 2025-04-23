@@ -1,0 +1,13 @@
+name: ASA_HealthFundRVGUnitValues
+title: ASA_HealthFundRVGUnitValues
+username: bfiripis
+account: bfiripis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12733470
+bundleId: 9961368
+url: https://bfiripis.shinyapps.io/ASA_HealthFundRVGUnitValues/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 2024-09-17 Historical Health Fund RVG Unit Values.csv|2024-11-01 Historical Health Fund RVG Unit Values.csv|ASA_HealthFundRVGUnitValues/2024-09-17 Historical Health Fund RVG Unit Values.csv|ASA_HealthFundRVGUnitValues/server.R|ASA_HealthFundRVGUnitValues/ui.R
